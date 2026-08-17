@@ -1,0 +1,3 @@
+tensorflow>=2.15,<2.20
+music21>=9.1
+numpy>=1.23
